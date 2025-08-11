@@ -9,8 +9,7 @@
 
 - 🎓 Graduated in **B.E. Electronics and Communication Engineering**  
 - 🔭 I'm learning and working in **Data Analytics**  
-- 🌱 Currently
-- earning **Python and Advanced SQL**  
+- 🌱 Currently learning **Python and Advanced SQL**  
 - 🤝 Seeking help with improving **business communication and storytelling with data**  
 - 📝 I regularly write articles on [https://medium.com/@hemavarshinijp](https://medium.com/@hemavarshinijp)  
 - 💬 Ask me about **Excel, Power BI, SQL, Data Visualization, and Data cleaning**  
