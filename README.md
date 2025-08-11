@@ -16,3 +16,32 @@
 - 💬 Ask me about **Excel, Power BI, SQL, Data Visualization, and Data cleaning**  
 A learner on the way to explore!!
 
+<h3 align="left">Skills:</h3>
+<p align="left"> 
+  <!-- SQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="60" height="60"/> 
+  </a>
+
+
+  
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Power BI" width="60" height="60"/> 
+  </a>
+
+
+  
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/> 
+  </a>
+
+
+  
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="60" height="60"/> 
+  </a>
+</p>
+
