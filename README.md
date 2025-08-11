@@ -42,8 +42,13 @@ A learner on the way to explore!!
 
 Let’s connect and collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemavarshini-j-p-68209719b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Hemavarshinijp)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:hemavarshinijp@gmail.com)
-[![Threads](https://img.shields.io/badge/Threads-Follow-black?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@data_with_hv)
+[<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="20"/> ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemavarshini-j-p-68209719b/)  
+
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="20"/> ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Hemavarshinijp)  
+
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> ![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:hemavarshinijp@gmail.com)  
+
+[![Threads](https://img.shields.io/badge/Threads-@data_with_hv-black?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@data_with_hv)
+
+
 
